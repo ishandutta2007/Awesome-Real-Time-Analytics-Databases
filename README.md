@@ -1,6 +1,6 @@
 # Awesome-Real-Time-Analytics-Databases
 
-# Top Real-Time Analytics Databases Ecosystem
+## Top Real-Time Analytics Databases Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Sub-Second OLAP Queries, Streaming Ingestion & High-Concurrency User-Facing Analytics*  
