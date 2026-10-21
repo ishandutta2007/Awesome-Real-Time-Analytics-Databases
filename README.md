@@ -13,7 +13,7 @@
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Analytics-Databases/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Analytics-Databases/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Real-Time-Analytics-Databases?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Analytics-Databases/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Real-Time-Analytics-Databases?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/gituub/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -83,11 +83,11 @@ The following hosted and managed SaaS solutions provide production-grade real-ti
 
 The following open-source real-time analytical database engines power real-time data architectures worldwide. 
 
-*Each project includes its live GitHub stargazer badge linking directly to its stargazers page. Repositories are sorted in descending order by **GitHub Stars**.*
+*Each project includes its live GitHub stargazer badge linking directly to its stargazers page. Repositories are sorted in descending order by **GitHub_Stars**.*
 
 ---
 
-### 1. [ClickHouse](https://github.com/ClickHouse/ClickHouse) [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) ⚡
+### 1. [ClickHouse](https://github.com/ClickHouse/ClickHouse) [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) ⚡
 - **License:** Apache 2.0
 - **Primary Language:** C++
 - **Key Architecture:** Column-oriented storage with SIMD-vectorized query execution and sparse primary indexing.
@@ -97,7 +97,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 2. [DuckDB](https://github.com/duckdb/duckdb) [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) 🦆
+### 2. [DuckDB](https://github.com/duckdb/duckdb) [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) 🦆
 - **License:** MIT
 - **Primary Language:** C++
 - **Key Architecture:** In-process columnar vectorized analytical database (the "SQLite for OLAP").
@@ -107,7 +107,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 3. [TimescaleDB](https://github.com/timescale/timescaledb) [![GitHub stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers) ⏰
+### 3. [TimescaleDB](https://github.com/timescale/timescaledb) [![GitHub_Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers) ⏰
 - **License:** Apache 2.0 / Timescale License (TSL)
 - **Primary Language:** C
 - **Key Architecture:** PostgreSQL extension converting Postgres into a scalable time-series and real-time analytical store via automated "Hypertables".
@@ -117,7 +117,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 4. [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) [![GitHub stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) 📈
+### 4. [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) [![GitHub_Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) 📈
 - **License:** Apache 2.0
 - **Primary Language:** Go
 - **Key Architecture:** Ultra-efficient time-series database and monitoring solution supporting Prometheus, InfluxDB, and Graphite wire protocols.
@@ -127,7 +127,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 5. [QuestDB](https://github.com/questdb/questdb) [![GitHub stars](https://img.shields.io/github/stars/questdb/questdb?style=social&color=white)](https://github.com/questdb/questdb/stargazers) 🚀
+### 5. [QuestDB](https://github.com/questdb/questdb) [![GitHub_Stars](https://img.shields.io/github/stars/questdb/questdb?style=social&color=white)](https://github.com/questdb/questdb/stargazers) 🚀
 - **License:** Apache 2.0
 - **Primary Language:** Java / C++
 - **Key Architecture:** High-performance columnar database with zero-GC memory allocation and SIMD-optimized query compilation.
@@ -137,7 +137,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 6. [Apache Doris](https://github.com/apache/doris) [![GitHub stars](https://img.shields.io/github/stars/apache/doris?style=social&color=white)](https://github.com/apache/doris/stargazers) 🐘
+### 6. [Apache Doris](https://github.com/apache/doris) [![GitHub_Stars](https://img.shields.io/github/stars/apache/doris?style=social&color=white)](https://github.com/apache/doris/stargazers) 🐘
 - **License:** Apache 2.0
 - **Primary Language:** C++ / Java
 - **Key Architecture:** MPP (Massively Parallel Processing) analytical database featuring columnar storage and cost-based query optimization.
@@ -147,7 +147,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 7. [Apache Druid](https://github.com/apache/druid) [![GitHub stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers) 🌲
+### 7. [Apache Druid](https://github.com/apache/druid) [![GitHub_Stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers) 🌲
 - **License:** Apache 2.0
 - **Primary Language:** Java
 - **Key Architecture:** Distributed, streaming-first OLAP datastore with column-oriented segment files and embedded bitmap indexing.
@@ -157,7 +157,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 8. [StarRocks](https://github.com/StarRocks/starrocks) [![GitHub stars](https://img.shields.io/github/stars/StarRocks/starrocks?style=social&color=white)](https://github.com/StarRocks/starrocks/stargazers) 🌊
+### 8. [StarRocks](https://github.com/StarRocks/starrocks) [![GitHub_Stars](https://img.shields.io/github/stars/StarRocks/starrocks?style=social&color=white)](https://github.com/StarRocks/starrocks/stargazers) 🌊
 - **License:** Apache 2.0
 - **Primary Language:** C++ / Java
 - **Key Architecture:** Next-generation vectorized MPP analytical database with a Cost-Based Optimizer (CBO) and automated materialized views.
@@ -167,7 +167,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 9. [RisingWave](https://github.com/risingwavelabs/risingwave) [![GitHub stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=social&color=white)](https://github.com/risingwavelabs/risingwave/stargazers) 🌊
+### 9. [RisingWave](https://github.com/risingwavelabs/risingwave) [![GitHub_Stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=social&color=white)](https://github.com/risingwavelabs/risingwave/stargazers) 🌊
 - **License:** Apache 2.0
 - **Primary Language:** Rust
 - **Key Architecture:** Distributed SQL streaming database using incremental materialized view computation with S3/object-storage-backed state.
@@ -177,7 +177,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 10. [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) [![GitHub stars](https://img.shields.io/github/stars/GreptimeTeam/greptimedb?style=social&color=white)](https://github.com/GreptimeTeam/greptimedb/stargazers) 🦎
+### 10. [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) [![GitHub_Stars](https://img.shields.io/github/stars/GreptimeTeam/greptimedb?style=social&color=white)](https://github.com/GreptimeTeam/greptimedb/stargazers) 🦎
 - **License:** Apache 2.0
 - **Primary Language:** Rust
 - **Key Architecture:** Cloud-native distributed time-series database with hybrid columnar/row storage, built on Apache Arrow and DataFusion.
@@ -187,7 +187,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 11. [Materialize](https://github.com/MaterializeInc/materialize) [![GitHub stars](https://img.shields.io/github/stars/MaterializeInc/materialize?style=social&color=white)](https://github.com/MaterializeInc/materialize/stargazers) 🔮
+### 11. [Materialize](https://github.com/MaterializeInc/materialize) [![GitHub_Stars](https://img.shields.io/github/stars/MaterializeInc/materialize?style=social&color=white)](https://github.com/MaterializeInc/materialize/stargazers) 🔮
 - **License:** Business Source License (BSL 1.1)
 - **Primary Language:** Rust
 - **Key Architecture:** Streaming database powered by Timely Dataflow and Differential Dataflow for incremental view maintenance.
@@ -197,7 +197,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 12. [Apache Pinot](https://github.com/apache/pinot) [![GitHub stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers) 🍷
+### 12. [Apache Pinot](https://github.com/apache/pinot) [![GitHub_Stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers) 🍷
 - **License:** Apache 2.0
 - **Primary Language:** Java
 - **Key Architecture:** Distributed real-time OLAP datastore with multi-tier indexing (Star-Tree, inverted, forward, Bloom filter, JSON, geospatial).
@@ -207,7 +207,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 13. [Apache Kylin](https://github.com/apache/kylin) [![GitHub stars](https://img.shields.io/github/stars/apache/kylin?style=social&color=white)](https://github.com/apache/kylin/stargazers) 🧊
+### 13. [Apache Kylin](https://github.com/apache/kylin) [![GitHub_Stars](https://img.shields.io/github/stars/apache/kylin?style=social&color=white)](https://github.com/apache/kylin/stargazers) 🧊
 - **License:** Apache 2.0
 - **Primary Language:** Java
 - **Key Architecture:** Distributed analytical engine using pre-aggregation multidimensional OLAP (MOLAP) cube technology over massive datasets.
@@ -217,7 +217,7 @@ The following open-source real-time analytical database engines power real-time 
 
 ---
 
-### 14. [ByConity](https://github.com/ByConity/ByConity) [![GitHub stars](https://img.shields.io/github/stars/ByConity/ByConity?style=social&color=white)](https://github.com/ByConity/ByConity/stargazers) 🌐
+### 14. [ByConity](https://github.com/ByConity/ByConity) [![GitHub_Stars](https://img.shields.io/github/stars/ByConity/ByConity?style=social&color=white)](https://github.com/ByConity/ByConity/stargazers) 🌐
 - **License:** Apache 2.0
 - **Primary Language:** C++
 - **Key Architecture:** Cloud-native analytical engine branched from ClickHouse with complete storage-compute separation and distributed transaction support.
@@ -269,7 +269,7 @@ We actively welcome contributions from the data engineering community! 💡
 2. **Create a branch** for your update: `git checkout -b feature/new-database`.
 3. **Add or edit entries in `README.md`**:
    - For SaaS products: Include specific starting tier pricing, explicit free tier limits, valuation/scale, and core focus.
-   - For Open-Source projects: Include official repo link, star badge (`style=social&color=white`), license, language, strengths, and trade-offs.
+   - For Open-Source projects: Include official repo link, Stars_Badge (`style=social&color=white`), license, language, strengths, and trade-offs.
 4. **Follow alphabetical or sorted criteria** appropriately.
 5. **Submit a Pull Request** with a concise description of why the tool qualifies.
 
@@ -297,3 +297,12 @@ If this curated reference helps you navigate the modern real-time data ecosystem
 
 - **Disclaimer:** This repository is an independently curated educational and technical index. Product names, logos, and brands are property of their respective owners. Mention of commercial products or open-source projects does not constitute a commercial endorsement.
 - **License:** Released under the [MIT License](LICENSE).
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Real-Time-Analytics-Databases&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Real-Time-Analytics-Databases_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Real-Time-Analytics-Databases_growth.svg">
+  </picture>
+</a>
